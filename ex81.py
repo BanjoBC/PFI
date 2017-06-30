@@ -5,8 +5,8 @@
 letters = ['a','b','c','d','e','f','g']
 
 def chop (a):
-	b = a.remove[0:1]
-	b = a.remove[len(a)-1:]
+	a.remove[0:1]
+	a.remove[len(a)-1:]
 	print(b)
 
 chop(letters)
